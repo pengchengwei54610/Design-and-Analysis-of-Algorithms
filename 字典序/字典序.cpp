@@ -1,3 +1,4 @@
+//µÚÒ»°æ
 #include<iostream>
 using namespace std;
 #define string_max_length 6
