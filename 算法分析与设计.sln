@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字典序", "字典序\字�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{C24983E5-5029-456C-A894-FD9A891A01D0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字典序（基础版）程序修改", "字典序（基础版）程序修改\字典序（基础版）程序修改.vcxproj", "{18EE8C1C-74A1-4697-A48C-3484868572C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{C24983E5-5029-456C-A894-FD9A891A01D0}.Release|x64.Build.0 = Release|x64
 		{C24983E5-5029-456C-A894-FD9A891A01D0}.Release|x86.ActiveCfg = Release|Win32
 		{C24983E5-5029-456C-A894-FD9A891A01D0}.Release|x86.Build.0 = Release|Win32
+		{18EE8C1C-74A1-4697-A48C-3484868572C2}.Debug|x64.ActiveCfg = Debug|x64
+		{18EE8C1C-74A1-4697-A48C-3484868572C2}.Debug|x64.Build.0 = Debug|x64
+		{18EE8C1C-74A1-4697-A48C-3484868572C2}.Debug|x86.ActiveCfg = Debug|Win32
+		{18EE8C1C-74A1-4697-A48C-3484868572C2}.Debug|x86.Build.0 = Debug|Win32
+		{18EE8C1C-74A1-4697-A48C-3484868572C2}.Release|x64.ActiveCfg = Release|x64
+		{18EE8C1C-74A1-4697-A48C-3484868572C2}.Release|x64.Build.0 = Release|x64
+		{18EE8C1C-74A1-4697-A48C-3484868572C2}.Release|x86.ActiveCfg = Release|Win32
+		{18EE8C1C-74A1-4697-A48C-3484868572C2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
